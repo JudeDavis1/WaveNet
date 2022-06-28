@@ -1,0 +1,5 @@
+torch
+wav
+numpy
+matplotlib
+tqdm
